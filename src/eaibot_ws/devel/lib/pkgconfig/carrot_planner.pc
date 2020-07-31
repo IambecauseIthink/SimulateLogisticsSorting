@@ -1,8 +1,0 @@
-prefix=/home/eaibot/eaibot_ws/devel
-
-Name: carrot_planner
-Description: Description of carrot_planner
-Version: 1.14.4
-Cflags: -I/home/eaibot/eaibot_ws/src/dashgo_src/carrot_planner/include
-Libs: -L/home/eaibot/eaibot_ws/devel/lib -lcarrot_planner
-Requires: roscpp pluginlib costmap_2d base_local_planner nav_core

@@ -1,8 +1,0 @@
-prefix=/home/eaibot/eaibot_ws/install
-
-Name: smart_node
-Description: Description of smart_node
-Version: 0.1.0
-Cflags: 
-Libs: -L/home/eaibot/eaibot_ws/install/lib 
-Requires: 

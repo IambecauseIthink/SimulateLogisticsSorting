@@ -1,8 +1,0 @@
-prefix=/home/eaibot/eaibot_ws/devel
-
-Name: dashgo_rviz
-Description: Description of dashgo_rviz
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/eaibot/eaibot_ws/devel/lib 
-Requires: 

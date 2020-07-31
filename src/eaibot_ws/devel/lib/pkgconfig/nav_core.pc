@@ -1,8 +1,0 @@
-prefix=/home/eaibot/eaibot_ws/devel
-
-Name: nav_core
-Description: Description of nav_core
-Version: 1.14.4
-Cflags: -I/home/eaibot/eaibot_ws/src/dashgo_src/nav_core/include
-Libs: -L/home/eaibot/eaibot_ws/devel/lib 
-Requires: std_msgs geometry_msgs tf costmap_2d

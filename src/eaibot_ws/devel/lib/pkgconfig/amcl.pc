@@ -1,8 +1,0 @@
-prefix=/home/eaibot/eaibot_ws/devel
-
-Name: amcl
-Description: Description of amcl
-Version: 1.14.3
-Cflags: -I/home/eaibot/eaibot_ws/devel/include -I/home/eaibot/eaibot_ws/src/dashgo_src/amcl/include
-Libs: -L/home/eaibot/eaibot_ws/devel/lib -lamcl_sensors -lamcl_map -lamcl_pf
-Requires: rosbag roscpp dynamic_reconfigure tf nav_msgs std_srvs

@@ -1,8 +1,0 @@
-prefix=/home/eaibot/eaibot_ws/install
-
-Name: traffic
-Description: Description of traffic
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/eaibot/eaibot_ws/install/lib 
-Requires: 

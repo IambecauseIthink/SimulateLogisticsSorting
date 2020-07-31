@@ -1,8 +1,0 @@
-prefix=/home/eaibot/eaibot_ws/install
-
-Name: move_to_grab
-Description: Description of move_to_grab
-Version: 0.0.0
-Cflags: -I/home/eaibot/eaibot_ws/install/include
-Libs: -L/home/eaibot/eaibot_ws/install/lib 
-Requires: roscpp std_msgs geometry_msgs
