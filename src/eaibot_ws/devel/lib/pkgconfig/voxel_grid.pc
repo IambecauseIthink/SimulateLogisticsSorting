@@ -1,0 +1,8 @@
+prefix=/home/eaibot/eaibot_ws/devel
+
+Name: voxel_grid
+Description: Description of voxel_grid
+Version: 1.14.4
+Cflags: -I/home/eaibot/eaibot_ws/src/dashgo_src/voxel_grid/include
+Libs: -L/home/eaibot/eaibot_ws/devel/lib -lvoxel_grid
+Requires: roscpp

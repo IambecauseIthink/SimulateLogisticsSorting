@@ -1,0 +1,8 @@
+prefix=/home/eaibot/eaibot_ws/devel
+
+Name: dwa_local_planner
+Description: Description of dwa_local_planner
+Version: 1.14.4
+Cflags: -I/home/eaibot/eaibot_ws/devel/include -I/home/eaibot/eaibot_ws/src/dashgo_src/dwa_local_planner/include
+Libs: -L/home/eaibot/eaibot_ws/devel/lib -ldwa_local_planner
+Requires: dynamic_reconfigure nav_msgs pluginlib roscpp

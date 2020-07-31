@@ -1,0 +1,6 @@
+<launch>
+    <include file="$(find dashgo_nav)/launch/gmapping_imu_new.launch"/>
+    <include file="$(find dashgo_nav)/lacunch/navigation_imu_2.launch"/>
+    <include file="$(find moveit)/launch/dobot_catch_out.launch"/>
+    <include file="$(find visual)/launch/ocr.launch"/>
+</launch>

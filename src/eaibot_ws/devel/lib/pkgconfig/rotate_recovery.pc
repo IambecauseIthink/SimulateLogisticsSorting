@@ -1,0 +1,8 @@
+prefix=/home/eaibot/eaibot_ws/devel
+
+Name: rotate_recovery
+Description: Description of rotate_recovery
+Version: 1.14.4
+Cflags: -I/home/eaibot/eaibot_ws/src/dashgo_src/rotate_recovery/include
+Libs: -L/home/eaibot/eaibot_ws/devel/lib -lrotate_recovery
+Requires: roscpp pluginlib
